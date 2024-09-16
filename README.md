@@ -1,5 +1,5 @@
-#👋 Hello! Welcome to my github profile.
-## My name is Vinícius Barbosa and my nickname is vinicius-lima-barbosa!
+# 👋 Hello! Welcome to my github profile.
+## Vinícius Barbosa
 
 <!--
 **vinicius-lima-barbosa/vinicius-lima-barbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

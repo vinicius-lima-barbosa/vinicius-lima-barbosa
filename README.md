@@ -5,8 +5,8 @@ I am 20 years old, from Patos/PB, and a Computer Science student. In 2022, I ven
 
 ##
 
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=vinicius-lima-barbosa&show_icons=true)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-lima-barbosa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=vinicius-lima-barbosa&show_icons=true&theme=transparent)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-lima-barbosa&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **vinicius-lima-barbosa/vinicius-lima-barbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

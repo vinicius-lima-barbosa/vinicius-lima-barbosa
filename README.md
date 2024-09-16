@@ -5,8 +5,8 @@ I am 20 years old, from Patos/PB, and a Computer Science student. In 2022, I ven
 
 <div>
 <a href="https://github.com/vinicius-lima-barbosa">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-lima-barbosa&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=vinicius-lima-barbosa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 <!--

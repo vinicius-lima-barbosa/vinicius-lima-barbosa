@@ -3,6 +3,12 @@
 
 I am 20 years old, from Patos/PB, and a Computer Science student. In 2022, I ventured into this course, and for some reason, I "fell in love" with it. I say this because I get more frustrated programming than I do happy, but when the final result comes together, there's always a satisfying feeling.
 
+<div>
+<a href="https://github.com/vinicius-lima-barbosa">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
 <!--
 **vinicius-lima-barbosa/vinicius-lima-barbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

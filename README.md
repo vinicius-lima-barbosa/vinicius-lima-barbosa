@@ -5,7 +5,7 @@ I am 20 years old, from Patos/PB, and a Computer Science student. In 2022, I ven
 
 ##
 ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=vinicius-lima-barbosa&show_icons=true&theme=transparent)
-![vinicius-lima-barbosa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vinicius-lima-barbosa&theme=dark&hide_border=false)
+![vinicius-lima-barbosa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vinicius-lima-barbosa&theme=transparent&hide_border=false)
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-lima-barbosa&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--

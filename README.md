@@ -3,10 +3,11 @@
 
 I am 20 years old, from Patos/PB, and a Computer Science student. In 2022, I ventured into this course, and for some reason, I "fell in love" with it. I say this because I get more frustrated programming than I do happy, but when the final result comes together, there's always a satisfying feeling.
 
+<!--
 ##
 ![vinicius-lima-barbosa's Stats](https://github-readme-stats.vercel.app/api?username=vinicius-lima-barbosa&theme=dark&show_icons=true&hide_border=false&count_private=true)
 ![vinicius-lima-barbosa's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vinicius-lima-barbosa&theme=dark&hide_border=false)
-<!--[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-lima-barbosa&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)-->
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-lima-barbosa&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <!--
 **vinicius-lima-barbosa/vinicius-lima-barbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

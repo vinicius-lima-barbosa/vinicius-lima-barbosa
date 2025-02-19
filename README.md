@@ -2,10 +2,6 @@
 
 ###
 
-<p align="left">My name is Vinícius and I'm a student, from patos/pb.</p>
-
-###
-
 <h2 align="left">About me</h2>
 
 ###

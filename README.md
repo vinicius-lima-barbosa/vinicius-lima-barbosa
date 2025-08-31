@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since: 2022<br>📚 I'm currently learning: Golang api's development.<br>🎯 Goals: Become a successful software developer.<br>🎲 Fun fact: I kinda hate Golang.</p>
+<p align="left">✨ Creating bugs since: 2022<br>📚 What i'm currently working on: Full Stack Development with **Typescript**.<br>🎯 Goals: Live from my work from Software Developer.<br>🎲 Fun fact: I kinda hate Golang.</p>
 
 ###
 

@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since: 2022<br>📚 What i'm currently working on: Full Stack Development with <strong>Typescript</strong>.<br>🎯 Goals: Live from my work on Software Development.<br>🎲 Fun fact: I kinda hate Golang.</p>
+<p align="left">✨ Creating bugs since: 2022<br>📚 What i'm currently working on: Full Stack Development with <strong>Typescript</strong>.<br>🎯 Goals: Live from my work on Software Development.<br>🎲 Fun fact: I kinda hate Golang.<br>🫠 I hate golang but: I'm developing things with the Gopher (don't ask me why, pls).</p>
 
 ###
 
